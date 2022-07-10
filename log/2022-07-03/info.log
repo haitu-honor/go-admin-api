@@ -1,0 +1,12 @@
+[github.com/myadmin/project/go-admin-api]2022/07/03 - 21:36:15.058	[34minfo[0m	D:/Code/go/go-github/go-admin-api/initialize/gorm.go:54	register table success
+[github.com/myadmin/project/go-admin-api]2022/07/03 - 21:36:15.065	[34minfo[0m	D:/Code/go/go-github/go-admin-api/initialize/router.go:33	router register success
+[github.com/myadmin/project/go-admin-api]2022/07/03 - 21:36:15.070	[34minfo[0m	D:/Code/go/go-github/go-admin-api/core/server.go:36	server run success on 	{"address": ":8888"}
+[github.com/myadmin/project/go-admin-api]2022/07/03 - 21:41:27.745	[34minfo[0m	D:/Code/go/go-github/go-admin-api/initialize/gorm.go:54	register table success
+[github.com/myadmin/project/go-admin-api]2022/07/03 - 21:41:27.751	[34minfo[0m	D:/Code/go/go-github/go-admin-api/initialize/router.go:33	router register success
+[github.com/myadmin/project/go-admin-api]2022/07/03 - 21:41:27.756	[34minfo[0m	D:/Code/go/go-github/go-admin-api/core/server.go:36	server run success on 	{"address": ":8888"}
+[github.com/myadmin/project/go-admin-api]2022/07/03 - 21:42:46.784	[34minfo[0m	D:/Code/go/go-github/go-admin-api/initialize/gorm.go:54	register table success
+[github.com/myadmin/project/go-admin-api]2022/07/03 - 21:42:46.812	[34minfo[0m	D:/Code/go/go-github/go-admin-api/initialize/router.go:33	router register success
+[github.com/myadmin/project/go-admin-api]2022/07/03 - 21:42:46.831	[34minfo[0m	D:/Code/go/go-github/go-admin-api/core/server.go:36	server run success on 	{"address": ":8888"}
+[github.com/myadmin/project/go-admin-api]2022/07/03 - 21:46:49.591	[34minfo[0m	D:/Code/go/go-github/go-admin-api/initialize/gorm.go:54	register table success
+[github.com/myadmin/project/go-admin-api]2022/07/03 - 21:46:49.604	[34minfo[0m	D:/Code/go/go-github/go-admin-api/initialize/router.go:33	router register success
+[github.com/myadmin/project/go-admin-api]2022/07/03 - 21:46:49.614	[34minfo[0m	D:/Code/go/go-github/go-admin-api/core/server.go:36	server run success on 	{"address": ":8888"}
